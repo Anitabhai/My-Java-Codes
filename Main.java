@@ -54,7 +54,8 @@ public class Main {
         //test.testReverseArray();
         //test.testPrimeDetective();
         //test.testBank();
-        test.testStaticConcept();
+        //test.testStaticConcept();
+        test.testStringArrangement();
 
         /*
         test.testPlayList();
